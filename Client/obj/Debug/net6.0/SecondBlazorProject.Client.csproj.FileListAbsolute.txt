@@ -825,3 +825,4 @@ C:\Blazor\SecondBlazorProject\Client\obj\Debug\net6.0\SecondBlazorProject.Client
 C:\Blazor\SecondBlazorProject\Client\obj\Debug\net6.0\refint\SecondBlazorProject.Client.dll
 C:\Blazor\SecondBlazorProject\Client\obj\Debug\net6.0\SecondBlazorProject.Client.pdb
 C:\Blazor\SecondBlazorProject\Client\obj\Debug\net6.0\ref\SecondBlazorProject.Client.dll
+C:\Blazor\SecondBlazorProject\Client\obj\Debug\net6.0\SecondBlazorProject.Client.sourcelink.json

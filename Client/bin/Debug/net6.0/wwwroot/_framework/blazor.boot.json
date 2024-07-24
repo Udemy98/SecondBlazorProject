@@ -1,7 +1,7 @@
 {
   "entryAssembly": "SecondBlazorProject.Client",
   "resources": {
-    "hash": "sha256-IrwdbInWqB0UUYDfYCtMcrd7SKcslaDmbTq+VuUh6QQ=",
+    "hash": "sha256-6O3nrhU8xtQ5lYIUGyjaMA8OjRpMPBlPhT93vHy5Pd8=",
     "runtime": {
       "dotnet.6.0.32.ksk91kx6a9.js": "sha256-6fa9WVfvYrd56Fl6GQXGO40czbLt6gcYgnZxXB+Sn5A=",
       "dotnet.timezones.blat": "sha256-ALK3ufXwNaP1t4mRlACcINalB2grQvfkrI/8lo7nNq0=",
@@ -201,11 +201,11 @@
       "netstandard.dll": "sha256-r5+y+NJTXzpyR9AaNMHpdVOOO50F+qLZjI83TNl3mwI=",
       "System.Private.CoreLib.dll": "sha256-f7ZZcXOXHgUqdmMScZ0DLX2KHCo02/IdYkvwk4mFL+0=",
       "SecondBlazorProject.Shared.dll": "sha256-nwfkKBS0zFnGtmn49XV56t/OU9NFdnrMuDBi1jZWTvI=",
-      "SecondBlazorProject.Client.dll": "sha256-JHM0mE9D/vn9kr5g/9cz3R9qGA8bzg1Wivr9yiYuLuM="
+      "SecondBlazorProject.Client.dll": "sha256-5o6Y5c1HAe6LplihDtasNxW9ZK45xjWBxRl/SFKno70="
     },
     "pdb": {
       "SecondBlazorProject.Shared.pdb": "sha256-bM9ntSSR7fWwizPyDLkzNTjW6iYvwQi8jOM2l4AIrzc=",
-      "SecondBlazorProject.Client.pdb": "sha256-7uc7d9SWxi2/5y+FS/0b3tQ7wKe7H+i90MKjCYteqWI="
+      "SecondBlazorProject.Client.pdb": "sha256-P9Njg3nLf9EHgWeuWMc5zknAGZf5pEnSFNQVYuqxJn0="
     },
     "runtimeAssets": {
       "dotnet.wasm": {
