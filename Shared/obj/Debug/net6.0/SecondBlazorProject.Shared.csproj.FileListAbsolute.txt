@@ -1,0 +1,11 @@
+C:\Blazor\SecondBlazorProject\Shared\bin\Debug\net6.0\SecondBlazorProject.Shared.deps.json
+C:\Blazor\SecondBlazorProject\Shared\bin\Debug\net6.0\SecondBlazorProject.Shared.dll
+C:\Blazor\SecondBlazorProject\Shared\bin\Debug\net6.0\SecondBlazorProject.Shared.pdb
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\SecondBlazorProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\SecondBlazorProject.Shared.AssemblyInfoInputs.cache
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\SecondBlazorProject.Shared.AssemblyInfo.cs
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\SecondBlazorProject.Shared.csproj.CoreCompileInputs.cache
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\SecondBlazorProject.Shared.dll
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\refint\SecondBlazorProject.Shared.dll
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\SecondBlazorProject.Shared.pdb
+C:\Blazor\SecondBlazorProject\Shared\obj\Debug\net6.0\ref\SecondBlazorProject.Shared.dll
